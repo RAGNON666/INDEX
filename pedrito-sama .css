@@ -1,0 +1,15 @@
+/*las imagenes*/
+#When{height: 300px; width: 350px;}
+img{height: 250px; width: 350px;}
+#Deseo{height: 300px; width: 370px;}
+#Separado{ margin-top: 50px;}
+#aguacates{height:400px; width: 300px;}
+#calaca{height: 300px; width: 360px}
+#techo{height: 200px; width: 400px;}
+#diablo4{height: 300px; width: 400px;}
+
+/*los formatos de letra*/
+p{font-family:'Arial', sans-serif;
+font-size: 18px;
+color: black;
+line-height: 1; }
